@@ -1,28 +1,27 @@
-JAVA
+# JAVA
 
-Descrição:
 Programa simples em Java que pede um número de 1 a 12 e retorna o mês correspondente. Permite repetir até o usuário encerrar.
 
-Como usar:
+## Como usar:
 
-Abra JAVA.java em sua IDE.
+- Abra JAVA.java em sua IDE.
 
-Compile e execute.
+- Compile e execute.
 
-Digite um número de 1 a 12.
+- Digite um número de 1 a 12.
 
-Digite s para continuar ou n para sair.
+- Digite s para continuar ou n para sair.
 
-Exemplo:
-Digite um número entre 1 e 12: 3
+## Exemplo:
+- Digite um número entre 1 e 12: 3
 Março
-Deseja ver outro mês? (s/n): s
-Digite um número entre 1 e 12: 13
-Número inválido!
-Deseja ver outro mês? (s/n): n
-Programa finalizado.
+- Deseja ver outro mês? (s/n): s
+- Digite um número entre 1 e 12: 13
+- Número inválido!
+- Deseja ver outro mês? (s/n): n
+- Programa finalizado.
 
-Tecnologias:
+## Tecnologias:
 
 Java
 
